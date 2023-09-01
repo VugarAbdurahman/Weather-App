@@ -1,6 +1,3 @@
-const url = "https://api.openweathermap.org/data/2.5/"
-const apiKEY = "8842758f8a7876f930fd1753a28b6912"
-
 const searchBar = document.querySelector("#input")
 
 const getWeather = (e) => {
